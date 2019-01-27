@@ -8,7 +8,6 @@ Application Issues:
 	Rss Feed Link is written in application.properties file. It can be updated from there.
 	Inserting all entries in Embedded DB
 API Documantation
-	http://localhost:8080/swagger-ui.html#/
-						-->Rss Feed Controller
+	http://localhost:8080/swagger-ui.html#/rss-feed-controller
 	
 
